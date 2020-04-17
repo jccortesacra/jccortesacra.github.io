@@ -1,2 +1,3 @@
 attendance List
 ------------------
+Juan Carlos Cortes Acra
